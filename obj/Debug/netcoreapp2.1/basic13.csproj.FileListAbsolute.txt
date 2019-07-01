@@ -1,0 +1,11 @@
+/Users/ricardorivera/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.deps.json
+/Users/ricardorivera/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.runtimeconfig.json
+/Users/ricardorivera/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.dll
+/Users/ricardorivera/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.pdb
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.dll
+/Users/ricardorivera/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.pdb
