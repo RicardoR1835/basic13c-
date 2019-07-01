@@ -156,16 +156,17 @@ namespace basic13
         public static object[] NumToString(int[] nums){
             List<object> arr = new List<object>();
             for(int i = 0; i < nums.Length; i++){
-                if(nums[i] < 0){
-                    nums[i].ToString("Dojo");
-                }
+                if((int) nums[i] < 0){
+                    arr.Add("Dojo");
+                } else{
                 arr.Add(nums[i]);
+                }
             }
-            for (int i = 0; i < nums.Length; i++)
+            for (int i = 0; i < arr.Count; i++)
             {
-                Console.WriteLine(nums[i]);
+                Console.WriteLine(arr[i]);
             }
-            return arr;
+            return arr.ToArray();
             // Write a function that takes an integer array and returns an object array 
             // that replaces any negative number with the string 'Dojo'.
             // For example, if array "numbers" is initially [-1, -3, 2] 
